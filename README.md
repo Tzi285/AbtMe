@@ -11,6 +11,3 @@ minhtrinh2805/minhtrinh2805 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<!---
-This repository is private for study
---->
